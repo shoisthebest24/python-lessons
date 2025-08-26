@@ -23,7 +23,7 @@ if salat.lower()=="ha":
     print("Salat: 7000")
     narh=narh+7000
 if sharbat.lower() in sok:
-    print(f"{sharbat.title()} sharbati: 12000")
+    print(f"{sharbat.title()} Sharbati: 12000")
     narh=narh+12000
 else:
     print("Siz buyurtma bergan sharbat mavjud emas ekan!")
